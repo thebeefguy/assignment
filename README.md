@@ -42,7 +42,7 @@ jupyter notebook
 
 ## Evaluating Retrieval
 
-The final cells of the notebook demonstrate the retrieve_context(question) function. It accepts a natural language query and outputs a grounded "context pack" of canonical claims and their exact supporting evidence. Example outputs are saved to the retrieval_examples/ directory.
+The final cells of the notebook demonstrate the retrieve_context(question) function. It accepts a natural language query and outputs a grounded "context pack" of canonical claims and their exact supporting evidence. Example outputs are saved to the `retrieval_examples/` directory.
 
 <p align="center">
 <img src ="visualization/image.png" width="600" alt="Graph in browser">
