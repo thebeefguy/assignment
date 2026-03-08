@@ -47,5 +47,5 @@ The final cells of the notebook demonstrate the retrieve_context(question) funct
 <p align="center">
 <img src ="visualization/image.png" width="600" alt="Graph in browser">
 <br>
-<em>Graph in browser</em>
+Graph in browser
 </p>
