@@ -1,4 +1,4 @@
-# Layer10 Take-Home: Grounded Memory Graph
+# Layer10 Assignment: Grounded Memory Graph
 
 This repository is a complete end-to-end pipeline that lets you extracts structured claims from GitHub issues, deduplicate them with semantic embeddings, and then construct a grounded, explorable memory graph, you can retrieve information from.
 
@@ -43,3 +43,5 @@ jupyter notebook
 ## Evaluating Retrieval
 
 The final cells of the notebook demonstrate the retrieve_context(question) function. It accepts a natural language query and outputs a grounded "context pack" of canonical claims and their exact supporting evidence. Example outputs are saved to the retrieval_examples/ directory.
+
+![The graph in browser](visualization/image.png)
