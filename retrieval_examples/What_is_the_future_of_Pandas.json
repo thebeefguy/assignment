@@ -17,7 +17,9 @@
       "claim": "pandas read_sas not working anymore ",
       "score": 0.4504421353340149,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "pandas"
+      ],
       "artifacts": [
         64055
       ],
@@ -29,7 +31,9 @@
       "claim": "pandas.array accepts multidimensional arguments ",
       "score": 0.41478776931762695,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "pandas.array"
+      ],
       "artifacts": [
         64280
       ],
@@ -41,7 +45,10 @@
       "claim": "suggestion: link a rag / llm debugging checklist (wfgy problem map) in the docs hi pandas team, thank you for maintaining such a foundational library. pandas is often the first stop for people who ar",
       "score": 0.4077381193637848,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "pandas",
+        "first"
+      ],
       "artifacts": [
         64263
       ],

@@ -1,0 +1,715 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="width" attr.type="long"/>
+<key id="d3" for="node" attr.name="support" attr.type="long"/>
+<key id="d2" for="node" attr.name="size" attr.type="long"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="E0000">
+  <data key="d0">CODE_TOKEN</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0001">
+  <data key="d0">restructuredtext](https://www.sphinx</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0002">
+  <data key="d0">asv runner</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0003">
+  <data key="d0">kunpeng</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0004">
+  <data key="d0">pandas</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0005">
+  <data key="d0">10</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0006">
+  <data key="d0">zoneinfo vs pytz</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0007">
+  <data key="d0">pd.na</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0008">
+  <data key="d0">1</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0009">
+  <data key="d0">3</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0010">
+  <data key="d0">5</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0011">
+  <data key="d0">pandas.array</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0012">
+  <data key="d0">64264</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0013">
+  <data key="d0">first</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0014">
+  <data key="d0">dti = pd.datetimeindex(data</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0015">
+  <data key="d0">assert dti.freq</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0016">
+  <data key="d0">404</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0017">
+  <data key="d0">zeros</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0018">
+  <data key="d0">to_numeric</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0019">
+  <data key="d0">last week's</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0020">
+  <data key="d0">61897</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0021">
+  <data key="d0">64155</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0022">
+  <data key="d0">allow merge</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0023">
+  <data key="d0">64419</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0024">
+  <data key="d0">https://github.com/pandas-dev/pandas/pull/64264</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0025">
+  <data key="d0">localizer</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0026">
+  <data key="d0">zoneinfo</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0027">
+  <data key="d0">1.1 gb</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0028">
+  <data key="d0">110</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="E0029">
+  <data key="d0">only one</data>
+  <data key="d1">entity</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0000">
+  <data key="d0">deprecate set_eng_float_format claude wrote this at my request</data>
+  <data key="d1">claim</data>
+  <data key="d3">2</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0001">
+  <data key="d0">fix incorrect sphinx cross references in older, whatsnew restructred text files. the top level CODE_TOKEN directory contains [restructuredtext](https://www.sphinx-doc.org/en/master/usage/restructured</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0002">
+  <data key="d0">add arm64 (aarch64) benchmark coverage (asv runner) to monitor perf regressions and gaps (incl. kunpeng) </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0003">
+  <data key="d0">add reduction methods to extensionarray subclasses the subclasses of CODE_TOKEN implemented within pandas can support various reductions, but many do not have specific reduction methods def</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0004">
+  <data key="d0">public apis missing from the api reference documentation </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0005">
+  <data key="d0">div()CODE_TOKENaxis` </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0006">
+  <data key="d0">double braces used in docs in CODE_TOKEN **this is not sufficient.** the issue appears in multiple places across the documentation (e.g., parameter descriptions and examples where {{ }} is rendered</data>
+  <data key="d1">claim</data>
+  <data key="d3">2</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0007">
+  <data key="d0">float_precision in read_csv we have "high" (the default), "legacy", and "round_trip"</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0008">
+  <data key="d0">CODE_TOKEN currently does nothing </data>
+  <data key="d1">claim</data>
+  <data key="d3">4</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0009">
+  <data key="d0">error when summing string to `pa</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0010">
+  <data key="d0">sort_index does fails with CODE_TOKEN </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0011">
+  <data key="d0">datetime index getters functions are 10 times slower with zoneinfo vs pytz timezone </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0012">
+  <data key="d0">large memory allocation when attempting to convert an int/float dict of arrays into dataframe </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0013">
+  <data key="d0">disc: pd.option_context thread-safety not sure how difficult this would be, but i suspect that the global state in the options dict should be made thread-local so that doing pd.option_context in threa</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0014">
+  <data key="d0">to_sql() overrides registered date and time converters in sqlite </data>
+  <data key="d1">claim</data>
+  <data key="d3">2</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0015">
+  <data key="d0">na to stringdtype column causes "unknown error: wrapping</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0016">
+  <data key="d0">assigning pd.na to stringdtype column causes "unknown error: wrapping .. failed" after pd.concat with pyarrow </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0017">
+  <data key="d0">hdfstore.select(where=...) silently returns empty dataframe with datetime64[us] index </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0018">
+  <data key="d0">add expression for index </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0019">
+  <data key="d0">plotting support for extensionarrays </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0020">
+  <data key="d0">pandas discarding index when loading from parquet </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0021">
+  <data key="d0">CODE_TOKEN raises a typeerror when subtype is a nullable extensiondtype CODE_TOKEN`python in [1]: import pandas as pd in [3]: import pyarrow as pa in [5]: from pandas.core.arrays.arrow.e</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0022">
+  <data key="d0">test_dt64arr_cmp_arraylike_invalid[tzlocal] fails on windows </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0023">
+  <data key="d0">pandas.array accepts multidimensional arguments </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0024">
+  <data key="d0">CODE_TOKEN line ending breaks build (wsl) </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0025">
+  <data key="d0">methods to potentially change for future</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0026">
+  <data key="d0">methods to potentially change for future.python_scalars the method lists below were generated by #64264 which might have some gaps but should be fairly exhaustive of the public api. i've grouped</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0027">
+  <data key="d0">suggestion: link a rag / llm debugging checklist (wfgy problem map) in the docs hi pandas team, thank you for maintaining such a foundational library. pandas is often the first stop for people who ar</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0028">
+  <data key="d0">the order of items in CODE_TOKEN matters for the resulting CODE_TOKEN. </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0029">
+  <data key="d0">inconsitant parsing of dates with us to ns resolution </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0030">
+  <data key="d0">periodindex(dt64_data) depends on container for data CODE_TOKEN` data = np.arange(5).view("m8[d]").astype("m8[ns]") dti = pd.datetimeindex(data) assert dti.freq is none pd.periodindex(dti) #</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0031">
+  <data key="d0">inconsistent handling of offsets in CODE_TOKEN </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0032">
+  <data key="d0">wrong source link for `pandas</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0033">
+  <data key="d0">wrong source link for CODE_TOKEN </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0034">
+  <data key="d0">source links not working: 404 on github </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0035">
+  <data key="d0">clarify deprecation and removal of substitution and appender classes </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0036">
+  <data key="d0">test_assignment_not_inplace incorrectly xfailed due to wrong assertion @jbrockmendel asked [claude] to open this</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0037">
+  <data key="d0">offset.name dateoffset.name is an alias of rule_code. we should have one or the other. i lean towards keeping rule_code because it won't get confused with e.g. series.name</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0038">
+  <data key="d0">CODE_TOKEN with CODE_TOKEN still mangles column names when duplicates exist elsewhere in spreadsheet </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0039">
+  <data key="d0">for CODE_TOKEN CODE_TOKEN is ignored for period / interval </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0040">
+  <data key="d0">inconsistent number conversion with leading zeros in to_numeric() </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0041">
+  <data key="d0">period "freq" -&gt; "unit" discussed in last week's meeting and before that in #61897, but before pulling the trigger on the rest of this (#64155 and more) i decided to write up the whole thing:</data>
+  <data key="d1">claim</data>
+  <data key="d3">2</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0042">
+  <data key="d0">item() query no longer possible since unique() method no longer returns array </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0043">
+  <data key="d0">avoid drop_duplicates(keep=false) in dataframe.__getitem__ for single-column access </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0044">
+  <data key="d0">api/bug: support for operations with custom objects / object dtype consider the following dummy example of a custom python object that supports some arithmetic operations: CODE_TOKEN`python class myobject:</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0045">
+  <data key="d0">explain the float_precision parameter </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0046">
+  <data key="d0">nearest_in_time fill for time series data </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0047">
+  <data key="d0">3 source link goes to main branch </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0048">
+  <data key="d0">pandas read_sas not working anymore </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0049">
+  <data key="d0">reindexing with fill_value </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0050">
+  <data key="d0">allow merge to override columns </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0051">
+  <data key="d0">wrong type nan values series </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0052">
+  <data key="d0">intersphinx references to common items break on latest docs </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0053">
+  <data key="d0">to_datetime does not recast units when passing a datetimeindex </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0054">
+  <data key="d0">code example includes python repl prompts (&gt;&gt;&gt;), causing copy-paste errors </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0055">
+  <data key="d0">index is incorrectly de-serialised by fastparquet after mulitple parquets written to different io</data>
+  <data key="d1">claim</data>
+  <data key="d3">2</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0056">
+  <data key="d0">CODE_TOKEN unable to retrieve a pd.series with dtype as "datetime64" since v3.0.0 </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0057">
+  <data key="d0">determination of result "flavor" when based on multiple input flavors in various places, we may want to determine the dtype flavor* for newly created columns when based on multiple input flavors.</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0058">
+  <data key="d0">refactor: centralize describe function selection </data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0059">
+  <data key="d0">closing in favor of #64419</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0060">
+  <data key="d0">one could use the code from https://github.com/pandas-dev/pandas/pull/64264 in CODE_TOKEN to iterate over all public pandas objects and search their docstrings for occurrences of CODE_TOKEN to locate.</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0061">
+  <data key="d0">yes, round_trip is much slower. in all our existing tests, using fast_float gives the same results as round_trip and has performance within the margin of error of "high". i think we should replace a</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0062">
+  <data key="d0">hey @marcogorelli, i was able to reproduce the bug. this is expected python behaviour because pyarrow does not support the add operation. if the goal is no error. then the feature **+** should be imp</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0063">
+  <data key="d0">@marcogorelli thanks for the report! it seems that the scalar doesn't get cast to the type of the array, but just inferred using pyarrow, so we end up with CODE_TOKEN scalar and CODE_TOKEN array in</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0064">
+  <data key="d0">in localizer class, pytz caches transition arrays upfront and uses c-level binary search to find offsets, whereas zoneinfo takes the use_tzlocal path, which creates a python datetime object and calls</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0065">
+  <data key="d0">if you do CODE_TOKEN right after CODE_TOKEN, you see this graph. so 1.1 gb of memory is allocated but it's not being used so the operating system doesn't actually give</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0066">
+  <data key="d0">the column index contains strings, but of course an array of 110 short strings should not consume 1gb of memory. now, as you mention yourself, that indicated memory is not actually being used, but the</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0067">
+  <data key="d0">@qris - my comment is only one of hesitation, not opposition. if we are no longer registering these, then there can be behavior differences. what are these and can we be confident that we don't get an</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0068">
+  <data key="d0">@rhshadrach this issue seems to be spam</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<node id="C0069">
+  <data key="d0">similar to https://github.com/pandas-dev/pandas/issues/63277, expressions were really added with coming from a column of a dataframe in mind. i think we should continue to expand support for the clear</data>
+  <data key="d1">claim</data>
+  <data key="d3">1</data>
+  <data key="d2">10</data>
+</node>
+<edge source="E0000" target="C0001">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0003">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0008">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0010">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0021">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0030">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0033">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0038">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0056">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0060">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0063">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0000" target="C0065">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0001" target="C0001">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0002" target="C0002">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0003" target="C0002">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0004" target="C0003">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0004" target="C0020">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0004" target="C0027">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0004" target="C0048">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0005" target="C0011">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0006" target="C0011">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0007" target="C0016">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0008" target="C0021">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0008" target="C0066">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0009" target="C0021">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0009" target="C0047">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0010" target="C0021">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0011" target="C0023">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0012" target="C0026">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0013" target="C0027">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0014" target="C0030">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0015" target="C0030">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0016" target="C0034">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0017" target="C0040">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0018" target="C0040">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0019" target="C0041">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0020" target="C0041">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0021" target="C0041">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0022" target="C0050">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0023" target="C0059">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0024" target="C0060">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0025" target="C0064">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0026" target="C0064">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0027" target="C0065">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0028" target="C0066">
+  <data key="d4">1</data>
+</edge>
+<edge source="E0029" target="C0067">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

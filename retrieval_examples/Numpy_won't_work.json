@@ -5,7 +5,9 @@
       "claim": "pandas read_sas not working anymore ",
       "score": 0.3785487115383148,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "pandas"
+      ],
       "artifacts": [
         64055
       ],
@@ -17,7 +19,10 @@
       "claim": "inconsistent number conversion with leading zeros in to_numeric() ",
       "score": 0.3468107581138611,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "zeros",
+        "to_numeric"
+      ],
       "artifacts": [
         64184
       ],
@@ -29,7 +34,12 @@
       "claim": "CODE_TOKEN raises a typeerror when subtype is a nullable extensiondtype CODE_TOKEN`python in [1]: import pandas as pd in [3]: import pyarrow as pa in [5]: from pandas.core.arrays.arrow.e",
       "score": 0.3306129574775696,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "CODE_TOKEN",
+        "1",
+        "3",
+        "5"
+      ],
       "artifacts": [
         64297
       ],

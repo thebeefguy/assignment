@@ -1,0 +1,272 @@
+subject,relation,object,artifact_id,issue_id,author,timestamp,evidence
+vkverma9534,PROPOSES,issue_64002,issue_64002,64002,vkverma9534,2026-02-03T07:08:44Z,"ENH: Refactor: centralize describe function selection ### Feature Type
+
+- [ ] Adding new functionality to pandas
+
+- [x] Changing existing functionality in pandas
+
+- [ ] Removing existing functionality"
+rhshadrach,PROPOSES,issue_64005,issue_64005,64005,rhshadrach,2026-02-03T12:10:33Z,"ENH: Determination of result ""flavor"" when based on multiple input flavors In various places, we may want to determine the dtype flavor* for newly created columns when based on multiple input flavors."
+maread99,PROPOSES,issue_64006,issue_64006,64006,maread99,2026-02-03T13:11:37Z,"BUG: `pd.read_hdf` unable to retrieve a pd.Series with dtype as ""datetime64"" since v3.0.0 ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have c"
+danieldavis068,PROPOSES,issue_64007,issue_64007,64007,danieldavis068,2026-02-03T14:19:08Z,"BUG: Index is incorrectly de-serialised by fastparquet after mulitple parquets written to different io.BytesIO streams with DataFrame.to_parquet ### Pandas version checks
+
+- [x] I have checked that th"
+issue_64007,RELATES_TO,issue_1,issue_64007,64007,danieldavis068,2026-02-03T14:19:08Z,BUG: Index is incorrectly de-serialised by fastparquet after mulitple parquets written to different io
+wenebob,PROPOSES,issue_64011,issue_64011,64011,wenebob,2026-02-03T19:41:34Z,"DOC: Code example includes Python REPL prompts (>>>), causing copy-paste errors ### Pandas version checks
+
+- [x] I have checked that the issue still exists on the latest versions of the docs on `main`"
+issue_64012,RELATES_TO,issue_1,issue_64012,64012,jf2,2026-02-03T22:23:07Z,BUG: to_datetime does not recast units when passing a DatetimeIndex ### Pandas version checks
+casblaauw,PROPOSES,issue_64028,issue_64028,64028,casblaauw,2026-02-04T18:30:51Z,"DOC: Intersphinx references to common items break on latest docs ### Pandas version checks
+
+- [x] I have checked that the issue still exists on the latest versions of the docs on `main` [here](https:/"
+issue_64037,RELATES_TO,issue_1,issue_64037,64037,lionel42,2026-02-05T13:11:29Z,BUG: wrong type nan values series ### Pandas version checks
+Balthasar-eu,PROPOSES,issue_64038,issue_64038,64038,Balthasar-eu,2026-02-05T13:41:49Z,"ENH: Allow merge to override columns ### Feature Type
+
+- [x] Adding new functionality to pandas
+
+- [ ] Changing existing functionality in pandas
+
+- [ ] Removing existing functionality in pandas
+
+
+### "
+Tux1,PROPOSES,issue_64047,issue_64047,64047,Tux1,2026-02-05T21:41:01Z,"BUG: Reindexing with fill_value ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the [latest version](https://p"
+AntonioNieto92,PROPOSES,issue_64055,issue_64055,64055,AntonioNieto92,2026-02-06T15:31:02Z,"BUG: pandas read_sas not working anymore ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the [latest version]("
+issue_64056,RELATES_TO,issue_58350,issue_64056,64056,wjandrea,2026-02-06T17:39:54Z,3 source link goes to main branch ### Pandas version checks
+samukweku,PROPOSES,issue_64070,issue_64070,64070,samukweku,2026-02-08T03:15:41Z,"ENH: add `pd.col` to `pd.DataFrame.case_when` ### Feature Type
+
+- [x] Adding new functionality to pandas
+
+- [ ] Changing existing functionality in pandas
+
+- [ ] Removing existing functionality in pand"
+vkverma9534,PROPOSES,issue_64074,issue_64074,64074,vkverma9534,2026-02-08T09:06:28Z,"ENH: Nearest_in_time fill for time series data ### Feature Type
+
+- [x] Adding new functionality to pandas
+
+- [ ] Changing existing functionality in pandas
+
+- [ ] Removing existing functionality in pan"
+jontwo,PROPOSES,issue_64094,issue_64094,64094,jontwo,2026-02-09T15:33:58Z,"DOC: explain the float_precision parameter ### Pandas version checks
+
+- [x] I have checked that the issue still exists on the latest versions of the docs on `main` [here](https://pandas.pydata.org/doc"
+jorisvandenbossche,PROPOSES,issue_64107,issue_64107,64107,jorisvandenbossche,2026-02-10T16:36:57Z,"API/BUG: support for operations with custom objects / object dtype Consider the following dummy example of a custom Python object that supports some arithmetic operations:
+
+```python
+class MyObject:
+ "
+tuhinsharma121,PROPOSES,issue_64126,issue_64126,64126,tuhinsharma121,2026-02-12T19:48:41Z,"PERF: Avoid drop_duplicates(keep=False) in DataFrame.__getitem__ for single-column access ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have c"
+issue_64129,RELATES_TO,issue_14,issue_64129,64129,alexiswl,2026-02-13T00:33:43Z,item() query no longer possible since unique() method no longer returns array ### Pandas version checks
+jbrockmendel,PROPOSES,issue_64174,issue_64174,64174,jbrockmendel,2026-02-16T22:07:19Z,"DEPR: Period ""freq"" -> ""unit"" Discussed in last week's meeting and before that in #61897, but before pulling the trigger on the rest of this (#64155 and more) I decided to write up The Whole Thing:
+
+#"
+issue_64174,RELATES_TO,issue_61897,issue_64174,64174,jbrockmendel,2026-02-16T22:07:19Z,"DEPR: Period ""freq"" -> ""unit"" Discussed in last week's meeting and before that in #61897, but before pulling the trigger on the rest of this (#64155 and more) I decided to write up The Whole Thing:"
+issue_64174,RELATES_TO,issue_64155,issue_64174,64174,jbrockmendel,2026-02-16T22:07:19Z,"DEPR: Period ""freq"" -> ""unit"" Discussed in last week's meeting and before that in #61897, but before pulling the trigger on the rest of this (#64155 and more) I decided to write up The Whole Thing:"
+issue_64174,RELATES_TO,issue_47227,issue_64174,64174,jbrockmendel,2026-02-16T22:07:19Z,"DEPR: Period ""freq"" -> ""unit"" Discussed in last week's meeting and before that in #61897, but before pulling the trigger on the rest of this (#64155 and more) I decided to write up The Whole Thing:"
+issue_64174,RELATES_TO,issue_5091,issue_64174,64174,jbrockmendel,2026-02-16T22:07:19Z,"DEPR: Period ""freq"" -> ""unit"" Discussed in last week's meeting and before that in #61897, but before pulling the trigger on the rest of this (#64155 and more) I decided to write up The Whole Thing:"
+issue_64174,RELATES_TO,issue_12379,issue_64174,64174,jbrockmendel,2026-02-16T22:07:19Z,"DEPR: Period ""freq"" -> ""unit"" Discussed in last week's meeting and before that in #61897, but before pulling the trigger on the rest of this (#64155 and more) I decided to write up The Whole Thing:"
+issue_64174,RELATES_TO,issue_64173,issue_64174,64174,jbrockmendel,2026-02-16T22:07:19Z,"DEPR: Period ""freq"" -> ""unit"" Discussed in last week's meeting and before that in #61897, but before pulling the trigger on the rest of this (#64155 and more) I decided to write up The Whole Thing:"
+vkmbjgo,PROPOSES,issue_64184,issue_64184,64184,vkmbjgo,2026-02-17T11:02:28Z,"BUG: Inconsistent number conversion with leading zeros in to_numeric() ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug e"
+gautamvarmadatla,PROPOSES,issue_64196,issue_64196,64196,gautamvarmadatla,2026-02-17T15:32:58Z,"BUG: For `infer_dtype` `skipna` is ignored for Period / Interval ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists "
+issue_64196,RELATES_TO,issue_1,issue_64196,64196,gautamvarmadatla,2026-02-17T15:32:58Z,BUG: For `infer_dtype` `skipna` is ignored for Period / Interval ### Pandas version checks
+arthursn,PROPOSES,issue_64198,issue_64198,64198,arthursn,2026-02-17T16:41:52Z,"BUG:  `read_excel` with `usecols` still mangles column names when duplicates exist elsewhere in spreadsheet ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reporte"
+issue_64198,RELATES_TO,issue_96,issue_64198,64198,arthursn,2026-02-17T16:41:52Z,BUG:  `read_excel` with `usecols` still mangles column names when duplicates exist elsewhere in spreadsheet ### Pandas version checks
+jbrockmendel,PROPOSES,issue_64207,issue_64207,64207,jbrockmendel,2026-02-17T21:34:42Z,DEPR: Offset.name DateOffset.name is an alias of rule_code.  We should have one or the other.  I lean towards keeping rule_code because it won't get confused with e.g. Series.name
+issue_64208,RELATES_TO,issue_9297,issue_64208,64208,jbrockmendel,2026-02-17T22:18:15Z,BUG: test_assignment_not_inplace incorrectly xfailed due to wrong assertion @jbrockmendel asked [claude] to open this
+Lucethecoder2003,PROPOSES,issue_64214,issue_64214,64214,Lucethecoder2003,2026-02-18T06:43:40Z,"DOC: Clarify deprecation and removal of Substitution and Appender classes ### Pandas version checks
+
+- [x] I have checked that the issue still exists on the latest versions of the docs on `main` [here"
+wjandrea,PROPOSES,issue_64223,issue_64223,64223,wjandrea,2026-02-18T15:01:12Z,"DOC: source links not working: 404 on GitHub ### Pandas version checks
+
+- [x] I have checked that the issue still exists on the latest versions of the docs on `main` [here](https://pandas.pydata.org/d"
+wjandrea,PROPOSES,issue_64224,issue_64224,64224,wjandrea,2026-02-18T15:12:07Z,"DOC: wrong source link for `pandas.DataFrame` ### Pandas version checks
+
+- [x] I have checked that the issue still exists on the latest versions of the docs on `main` [here](https://pandas.pydata.org/"
+issue_64224,RELATES_TO,issue_64223,issue_64224,64224,wjandrea,2026-02-18T15:12:07Z,DOC: wrong source link for `pandas
+arbolvlad,PROPOSES,issue_64240,issue_64240,64240,arbolvlad,2026-02-19T15:56:21Z,"BUG: Inconsistent handling of offsets in `to_timedelta` ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the [l"
+issue_64240,RELATES_TO,issue_7705,issue_64240,64240,arbolvlad,2026-02-19T15:56:21Z,BUG: Inconsistent handling of offsets in `to_timedelta` ### Pandas version checks
+jbrockmendel,PROPOSES,issue_64241,issue_64241,64241,jbrockmendel,2026-02-19T16:00:01Z,"API: PeriodIndex(dt64_data) depends on container for data ```
+data = np.arange(5).view(""M8[D]"").astype(""M8[ns]"")
+dti = pd.DatetimeIndex(data)
+assert dti.freq is None
+
+pd.PeriodIndex(dti)             #"
+arnaudlegout,PROPOSES,issue_64252,issue_64252,64252,arnaudlegout,2026-02-20T11:03:03Z,"BUG: inconsitant parsing of dates with us to ns resolution ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the"
+olofahlen,PROPOSES,issue_64253,issue_64253,64253,olofahlen,2026-02-20T11:45:45Z,"BUG: The order of items in `pd.concat` matters for the resulting `.index.freq`. ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed t"
+yushiyangk,PROPOSES,issue_64255,issue_64255,64255,yushiyangk,2026-02-20T18:01:56Z,"ENH: `series.argsort(stable=True)` currently does nothing ### Feature Type
+
+- [ ] Adding new functionality to pandas
+
+
+- [x] Changing existing functionality in pandas
+- [ ] Removing existing functiona"
+onestardao,PROPOSES,issue_64263,issue_64263,64263,onestardao,2026-02-21T15:25:23Z,"Suggestion: link a RAG / LLM debugging checklist (WFGY Problem Map) in the docs Hi pandas team,
+
+thank you for maintaining such a foundational library. pandas is often the first stop for people who ar"
+rhshadrach,PROPOSES,issue_64266,issue_64266,64266,rhshadrach,2026-02-21T18:48:13Z,ENH: Methods to potentially change for future.python_scalars The method lists below were generated by #64264 which might have some gaps but should be fairly exhaustive of the public API. I've grouped 
+issue_64266,RELATES_TO,issue_64264,issue_64266,64266,rhshadrach,2026-02-21T18:48:13Z,ENH: Methods to potentially change for future
+yushiyangk,PROPOSES,issue_64271,issue_64271,64271,yushiyangk,2026-02-22T00:56:05Z,"BUG: `generate_version.py` line ending breaks build (WSL) ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the "
+antareepsarkar,PROPOSES,issue_64280,issue_64280,64280,antareepsarkar,2026-02-23T01:54:05Z,"BUG: pandas.array accepts multidimensional arguments ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the [late"
+Aniketsy,PROPOSES,issue_64281,issue_64281,64281,Aniketsy,2026-02-23T08:35:59Z,"BUG: test_dt64arr_cmp_arraylike_invalid[tzlocal] fails on Windows ### Pandas version checks
+
+- [ ] I have checked that this issue has not already been reported.
+
+- [ ] I have confirmed this bug exists"
+mroeschke,PROPOSES,issue_64297,issue_64297,64297,mroeschke,2026-02-24T17:53:13Z,"`IntervalDtype.__from_arrow__` raises a TypeError when subtype is a nullable ExtensionDtype ```python
+In [1]: import pandas as pd
+
+In [3]: import pyarrow as pa
+
+In [5]: from pandas.core.arrays.arrow.e"
+issue_64298,RELATES_TO,issue_64007,issue_64298,64298,zackmccord,2026-02-24T18:23:26Z,BUG: pandas discarding index when loading from parquet ### Pandas version checks
+Julian-Harbeck,PROPOSES,issue_64300,issue_64300,64300,Julian-Harbeck,2026-02-24T19:06:52Z,"ENH: Plotting support for ExtensionArrays ### Feature Type
+
+- [x] Adding new functionality to pandas
+
+- [x] Changing existing functionality in pandas
+
+- [ ] Removing existing functionality in pandas
+
+"
+peter-gerlagh-kyos,PROPOSES,issue_64308,issue_64308,64308,peter-gerlagh-kyos,2026-02-25T15:36:35Z,"ENH: add Expression for index ### Feature Type
+
+- [x] Adding new functionality to pandas
+
+- [ ] Changing existing functionality in pandas
+
+- [ ] Removing existing functionality in pandas
+
+
+### Problem"
+rhshadrach,PROPOSES,issue_64308,comment_3977395370,64308,rhshadrach,2026-02-28T16:38:37Z,"Similar to https://github.com/pandas-dev/pandas/issues/63277, expressions were really added with coming from a column of a DataFrame in mind. I think we should continue to expand support for the clear"
+gaborv,PROPOSES,issue_64310,issue_64310,64310,gaborv,2026-02-25T20:24:11Z,"BUG: HDFStore.select(where=...) silently returns empty DataFrame with datetime64[us] index ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have "
+issue_64315,RELATES_TO,issue_64312,comment_3964547221,64315,kjmin622,2026-02-26T07:05:08Z,@rhshadrach This issue seems to be spam
+issue_64315,RELATES_TO,issue_64313,comment_3964547221,64315,kjmin622,2026-02-26T07:05:08Z,@rhshadrach This issue seems to be spam
+issue_64315,RELATES_TO,issue_64314,comment_3964547221,64315,kjmin622,2026-02-26T07:05:08Z,@rhshadrach This issue seems to be spam
+issue_64315,RELATES_TO,issue_64315,comment_3964547221,64315,kjmin622,2026-02-26T07:05:08Z,@rhshadrach This issue seems to be spam
+askalonso,PROPOSES,issue_64320,issue_64320,64320,askalonso,2026-02-26T11:00:23Z,"BUG: Assigning pd.NA to StringDtype column causes ""Unknown error: Wrapping .. failed"" after pd.concat with PyArrow ### Pandas version checks
+
+- [x] I have checked that this issue has not already been "
+issue_64320,RELATES_TO,issue_17,issue_64320,64320,askalonso,2026-02-26T11:00:23Z,"NA to StringDtype column causes ""Unknown error: Wrapping"
+qris,PROPOSES,issue_64337,issue_64337,64337,qris,2026-02-27T12:20:59Z,"BUG: Dataframe.to_sql() overrides registered date and time converters in SQLite ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed t"
+rhshadrach,PROPOSES,issue_64337,comment_4000725525,64337,rhshadrach,2026-03-04T22:34:11Z,"@qris - my comment is only one of hesitation, not opposition. If we are no longer registering these, then there can be behavior differences. What are these and can we be confident that we don't get an"
+issue_64337,RELATES_TO,issue_35,issue_64337,64337,qris,2026-02-27T12:20:59Z,to_sql() overrides registered date and time converters in SQLite ### Pandas version checks
+jbrockmendel,PROPOSES,issue_64345,issue_64345,64345,jbrockmendel,2026-02-28T03:12:45Z,"DISC: pd.option_context thread-safety Not sure how difficult this would be, but I suspect that the global state in the options dict should be made thread-local so that doing pd.option_context in threa"
+ikrommyd,PROPOSES,issue_64349,issue_64349,64349,ikrommyd,2026-02-28T20:40:33Z,"BUG: large memory allocation when attempting to convert an int/float dict of arrays into dataframe ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x]"
+ikrommyd,PROPOSES,issue_64349,comment_3977930397,64349,ikrommyd,2026-02-28T21:32:13Z,"If you do `sleep(2)` right after `df = pd.DataFrame(accum_dict, copy=False)`, you see this graph. So 1.1 GB of memory is allocated but it's not being used so the operating system doesn't actually give"
+jorisvandenbossche,PROPOSES,issue_64349,comment_3990122200,64349,jorisvandenbossche,2026-03-03T10:35:31Z,"The column Index contains strings, but of course an array of 110 short strings should not consume 1GB of memory.
+Now, as you mention yourself, that indicated memory is not actually being used, but the"
+issue_64349,RELATES_TO,issue_1,issue_64349,64349,ikrommyd,2026-02-28T20:40:33Z,BUG: large memory allocation when attempting to convert an int/float dict of arrays into dataframe ### Pandas version checks
+kjmin622,PROPOSES,issue_64363,comment_3988089363,64363,kjmin622,2026-03-03T01:49:09Z,"In Localizer class, pytz caches transition arrays upfront and uses C-level binary search to find offsets, whereas ZoneInfo takes the use_tzlocal path, which creates a Python datetime object and calls "
+issue_64363,RELATES_TO,issue_14,issue_64363,64363,ndclt,2026-03-02T13:34:04Z,PERF: datetime index getters functions are 10 times slower with ZoneInfo vs pytz timezone ### Pandas version checks
+issue_64383,RELATES_TO,issue_101,issue_64383,64383,johannes-mueller,2026-03-03T13:14:42Z,sort_index does fails with `AssertionError` ### Pandas version checks
+moi90,PROPOSES,issue_64391,issue_64391,64391,moi90,2026-03-04T13:30:13Z,"BUG: `eval` not working with string containment ### Pandas version checks
+
+- [x] I have checked that this issue has not already been reported.
+
+- [x] I have confirmed this bug exists on the [latest ve"
+issue_64391,RELATES_TO,issue_14,issue_64391,64391,moi90,2026-03-04T13:30:13Z,BUG: `eval` not working with string containment ### Pandas version checks
+SKMahesh15,PROPOSES,issue_64393,comment_3999601440,64393,SKMahesh15,2026-03-04T19:09:01Z,"Hey @MarcoGorelli, I was able to reproduce the bug. This is expected Python behaviour because PyArrow does not support the add operation. 
+If the goal is no error.
+Then the feature **+** should be imp"
+jorisvandenbossche,PROPOSES,issue_64393,comment_4012086701,64393,jorisvandenbossche,2026-03-06T14:30:30Z,"@MarcoGorelli thanks for the report! It seems that the scalar doesn't get cast to the type of the array, but just inferred using pyarrow, so we end up with `string` scalar and `large_string` array in "
+issue_64393,RELATES_TO,issue_1,issue_64393,64393,MarcoGorelli,2026-03-04T15:21:11Z,BUG: error when summing string to `pa
+Dr-Irv,PROPOSES,issue_64394,issue_64394,64394,Dr-Irv,2026-03-04T20:36:43Z,"DOC: Example of a `dict` for the `dtype` argument is wrong ### Pandas version checks
+
+- [x] I have checked that the issue still exists on the latest versions of the docs on `main` [here](https://panda"
+issue_64394,RELATES_TO,issue_58661,issue_64394,64394,Dr-Irv,2026-03-04T20:36:43Z,DOC: Example of a `dict` for the `dtype` argument is wrong ### Pandas version checks
+jbrockmendel,PROPOSES,issue_64395,comment_4013125738,64395,jbrockmendel,2026-03-06T17:48:23Z,"Yes, round_trip is much slower.  In all our existing tests, using fast_float gives the same results as round_trip and has performance within the margin of error of ""high"".  I think we should replace a"
+issue_64395,RELATES_TO,issue_8044,issue_64395,64395,jbrockmendel,2026-03-05T02:22:04Z,"DEPR: float_precision in read_csv We have ""high"" (the default), ""legacy"", and ""round_trip"""
+issue_64395,RELATES_TO,issue_36228,issue_64395,64395,jbrockmendel,2026-03-05T02:22:04Z,"DEPR: float_precision in read_csv We have ""high"" (the default), ""legacy"", and ""round_trip"""
+smith558,PROPOSES,issue_64419,issue_64419,64419,smith558,2026-03-06T10:47:10Z,"DOC: rendering bug - `{{ }}` shown instead of `{ }` across API documentation ### Pandas version checks
+
+- [x] I have checked that the issue still exists on the latest versions of the docs on `main` [h"
+rhshadrach,PROPOSES,issue_64419,comment_4011218826,64419,rhshadrach,2026-03-06T11:36:48Z,One could use the code from https://github.com/pandas-dev/pandas/pull/64264 in `conftest.py` to iterate over all public pandas objects and search their docstrings for occurrences of `{{` to locate.
+issue_64419,RELATES_TO,issue_62437,comment_4011353543,64419,smith558,2026-03-06T12:04:00Z,"> Thanks for the report, this was due to [#62437](https://github"
+Dr-Irv,PROPOSES,issue_64426,issue_64426,64426,Dr-Irv,2026-03-06T16:36:01Z,"Double braces used in docs in `read_csv` **This is not sufficient.**
+
+The issue appears in multiple places across the documentation (e.g., parameter descriptions and examples where {{ }} is rendered"
+issue_64426,RELATES_TO,issue_64419,comment_4012776005,64426,Dr-Irv,2026-03-06T16:37:07Z,closing in favor of #64419
+issue_64428,RELATES_TO,issue_1,issue_64428,64428,torext,2026-03-06T17:37:05Z,div()` ignores `axis` ### Pandas version checks
+tuhinsharma121,PROPOSES,issue_64446,issue_64446,64446,tuhinsharma121,2026-03-07T07:05:59Z,"DOC: Public APIs missing from the API reference documentation ### Pandas version checks
+
+- [x] I have checked that the issue still exists on the latest versions of the docs on `main` [here](https://pa"
+rhshadrach,PROPOSES,issue_64450,issue_64450,64450,rhshadrach,2026-03-07T12:42:02Z,"API: Add reduction methods to ExtensionArray subclasses The subclasses of `ExtensionArray` implemented within pandas can support various reductions, but many do not have specific reduction methods def"
+113xiaoji,PROPOSES,issue_64454,issue_64454,64454,113xiaoji,2026-03-07T16:24:36Z,"Add ARM64 (AArch64) benchmark coverage (ASV runner) to monitor perf regressions and gaps (incl. Kunpeng) ### Research
+
+- [x] I have searched the [[pandas] tag](https://stackoverflow.com/questions/tagg"
+rhshadrach,PROPOSES,issue_64454,comment_4017579083,64454,rhshadrach,2026-03-07T22:48:26Z,"Thanks for you're interest here! cc @pandas-dev/pandas-core 
+
+> Does pandas currently run ASV benchmarks on ARM64 on a regular schedule?
+
+No.
+
+> If not, would you be open to adding an ARM64 runner (or"
+mroeschke,PROPOSES,issue_64458,issue_64458,64458,mroeschke,2026-03-07T19:42:11Z,"DOC: Fix incorrect Sphinx cross references in older, whatsnew restructred text files. The top level `doc/` directory contains [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructured"
+jbrockmendel,PROPOSES,issue_64460,issue_64460,64460,jbrockmendel,2026-03-07T22:42:00Z,"DEPR: deprecate set_eng_float_format Claude wrote this at my request.
+
+## Proposal
+
+Deprecate `pd.set_eng_float_format()` in favor of using `pd.set_option(""display.float_format"", EngFormatter(...))` d"
+issue_64460,RELATES_TO,issue_15610,issue_64460,64460,jbrockmendel,2026-03-07T22:42:00Z,DEPR: deprecate set_eng_float_format Claude wrote this at my request
+issue_64460,RELATES_TO,issue_11981,issue_64460,64460,jbrockmendel,2026-03-07T22:42:00Z,DEPR: deprecate set_eng_float_format Claude wrote this at my request
+issue_64460,RELATES_TO,issue_15610,issue_64460,64460,jbrockmendel,2026-03-07T22:42:00Z,DEPR: deprecate set_eng_float_format Claude wrote this at my request
+issue_64460,RELATES_TO,issue_15610,issue_64460,64460,jbrockmendel,2026-03-07T22:42:00Z,DEPR: deprecate set_eng_float_format Claude wrote this at my request

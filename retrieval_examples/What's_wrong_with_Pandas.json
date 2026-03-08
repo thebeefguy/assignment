@@ -17,7 +17,9 @@
       "claim": "pandas read_sas not working anymore ",
       "score": 0.5989486575126648,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "pandas"
+      ],
       "artifacts": [
         64055
       ],
@@ -29,7 +31,10 @@
       "claim": "suggestion: link a rag / llm debugging checklist (wfgy problem map) in the docs hi pandas team, thank you for maintaining such a foundational library. pandas is often the first stop for people who ar",
       "score": 0.551425576210022,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "pandas",
+        "first"
+      ],
       "artifacts": [
         64263
       ],
@@ -41,7 +46,9 @@
       "claim": "pandas.array accepts multidimensional arguments ",
       "score": 0.5354632139205933,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "pandas.array"
+      ],
       "artifacts": [
         64280
       ],
@@ -53,7 +60,12 @@
       "claim": "CODE_TOKEN raises a typeerror when subtype is a nullable extensiondtype CODE_TOKEN`python in [1]: import pandas as pd in [3]: import pyarrow as pa in [5]: from pandas.core.arrays.arrow.e",
       "score": 0.48764917254447937,
       "support_count": 1,
-      "entities": [],
+      "entities": [
+        "CODE_TOKEN",
+        "1",
+        "3",
+        "5"
+      ],
       "artifacts": [
         64297
       ],
