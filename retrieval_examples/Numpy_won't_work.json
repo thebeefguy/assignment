@@ -1,0 +1,65 @@
+{
+  "question": "Numpy won't work",
+  "retrieved_claims": [
+    {
+      "claim": "pandas read_sas not working anymore ",
+      "score": 0.3785487115383148,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64055
+      ],
+      "evidence": [
+        "BUG: pandas read_sas not working anymore ### Pandas version checks\n\n- [x] I have checked that this issue has not already been reported.\n\n- [x] I have confirmed this bug exists on the [latest version]("
+      ]
+    },
+    {
+      "claim": "inconsistent number conversion with leading zeros in to_numeric() ",
+      "score": 0.3468107581138611,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64184
+      ],
+      "evidence": [
+        "BUG: Inconsistent number conversion with leading zeros in to_numeric() ### Pandas version checks\n\n- [x] I have checked that this issue has not already been reported.\n\n- [x] I have confirmed this bug e"
+      ]
+    },
+    {
+      "claim": "CODE_TOKEN raises a typeerror when subtype is a nullable extensiondtype CODE_TOKEN`python in [1]: import pandas as pd in [3]: import pyarrow as pa in [5]: from pandas.core.arrays.arrow.e",
+      "score": 0.3306129574775696,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64297
+      ],
+      "evidence": [
+        "`IntervalDtype.__from_arrow__` raises a TypeError when subtype is a nullable ExtensionDtype ```python\nIn [1]: import pandas as pd\n\nIn [3]: import pyarrow as pa\n\nIn [5]: from pandas.core.arrays.arrow.e"
+      ]
+    },
+    {
+      "claim": "wrong type nan values series ",
+      "score": 0.3284112811088562,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64037
+      ],
+      "evidence": [
+        "BUG: wrong type nan values series ### Pandas version checks"
+      ]
+    },
+    {
+      "claim": "large memory allocation when attempting to convert an int/float dict of arrays into dataframe ",
+      "score": 0.3250156044960022,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64349
+      ],
+      "evidence": [
+        "BUG: large memory allocation when attempting to convert an int/float dict of arrays into dataframe ### Pandas version checks"
+      ]
+    }
+  ]
+}

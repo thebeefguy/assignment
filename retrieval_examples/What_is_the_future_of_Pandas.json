@@ -1,0 +1,65 @@
+{
+  "question": "What is the future of Pandas",
+  "retrieved_claims": [
+    {
+      "claim": "wrong source link for `pandas",
+      "score": 0.4695664048194885,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64224
+      ],
+      "evidence": [
+        "DOC: wrong source link for `pandas"
+      ]
+    },
+    {
+      "claim": "pandas read_sas not working anymore ",
+      "score": 0.4504421353340149,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64055
+      ],
+      "evidence": [
+        "BUG: pandas read_sas not working anymore ### Pandas version checks\n\n- [x] I have checked that this issue has not already been reported.\n\n- [x] I have confirmed this bug exists on the [latest version]("
+      ]
+    },
+    {
+      "claim": "pandas.array accepts multidimensional arguments ",
+      "score": 0.41478776931762695,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64280
+      ],
+      "evidence": [
+        "BUG: pandas.array accepts multidimensional arguments ### Pandas version checks\n\n- [x] I have checked that this issue has not already been reported.\n\n- [x] I have confirmed this bug exists on the [late"
+      ]
+    },
+    {
+      "claim": "suggestion: link a rag / llm debugging checklist (wfgy problem map) in the docs hi pandas team, thank you for maintaining such a foundational library. pandas is often the first stop for people who ar",
+      "score": 0.4077381193637848,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64263
+      ],
+      "evidence": [
+        "Suggestion: link a RAG / LLM debugging checklist (WFGY Problem Map) in the docs Hi pandas team,\n\nthank you for maintaining such a foundational library. pandas is often the first stop for people who ar"
+      ]
+    },
+    {
+      "claim": "similar to https://github.com/pandas-dev/pandas/issues/63277, expressions were really added with coming from a column of a dataframe in mind. i think we should continue to expand support for the clear",
+      "score": 0.3813323676586151,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64308
+      ],
+      "evidence": [
+        "Similar to https://github.com/pandas-dev/pandas/issues/63277, expressions were really added with coming from a column of a DataFrame in mind. I think we should continue to expand support for the clear"
+      ]
+    }
+  ]
+}

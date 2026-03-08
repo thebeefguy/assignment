@@ -1,0 +1,65 @@
+{
+  "question": "What's wrong with Pandas",
+  "retrieved_claims": [
+    {
+      "claim": "wrong source link for `pandas",
+      "score": 0.6097823977470398,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64224
+      ],
+      "evidence": [
+        "DOC: wrong source link for `pandas"
+      ]
+    },
+    {
+      "claim": "pandas read_sas not working anymore ",
+      "score": 0.5989486575126648,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64055
+      ],
+      "evidence": [
+        "BUG: pandas read_sas not working anymore ### Pandas version checks\n\n- [x] I have checked that this issue has not already been reported.\n\n- [x] I have confirmed this bug exists on the [latest version]("
+      ]
+    },
+    {
+      "claim": "suggestion: link a rag / llm debugging checklist (wfgy problem map) in the docs hi pandas team, thank you for maintaining such a foundational library. pandas is often the first stop for people who ar",
+      "score": 0.551425576210022,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64263
+      ],
+      "evidence": [
+        "Suggestion: link a RAG / LLM debugging checklist (WFGY Problem Map) in the docs Hi pandas team,\n\nthank you for maintaining such a foundational library. pandas is often the first stop for people who ar"
+      ]
+    },
+    {
+      "claim": "pandas.array accepts multidimensional arguments ",
+      "score": 0.5354632139205933,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64280
+      ],
+      "evidence": [
+        "BUG: pandas.array accepts multidimensional arguments ### Pandas version checks\n\n- [x] I have checked that this issue has not already been reported.\n\n- [x] I have confirmed this bug exists on the [late"
+      ]
+    },
+    {
+      "claim": "CODE_TOKEN raises a typeerror when subtype is a nullable extensiondtype CODE_TOKEN`python in [1]: import pandas as pd in [3]: import pyarrow as pa in [5]: from pandas.core.arrays.arrow.e",
+      "score": 0.48764917254447937,
+      "support_count": 1,
+      "entities": [],
+      "artifacts": [
+        64297
+      ],
+      "evidence": [
+        "`IntervalDtype.__from_arrow__` raises a TypeError when subtype is a nullable ExtensionDtype ```python\nIn [1]: import pandas as pd\n\nIn [3]: import pyarrow as pa\n\nIn [5]: from pandas.core.arrays.arrow.e"
+      ]
+    }
+  ]
+}
