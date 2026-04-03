@@ -1,9 +1,9 @@
-# Layer10 Assignment: Grounded Memory Graph
+# Data Retrieval Assignment: Grounded Memory Graph
 
 This repository is a complete end-to-end pipeline that lets you extracts structured claims from GitHub issues, deduplicate them with semantic embeddings, and then construct an explorable memory graph that you can retrieve information from.
 
 ## Project Structure
-* `layer10.ipynb`: The primary Jupyter Notebook containing the end-to-end pipeline (Data Download $\rightarrow$ Extraction $\rightarrow$ Embedding $\rightarrow$ Clustering $\rightarrow$ Graph Construction $\rightarrow$ Retrieval).
+* `main.ipynb`: The primary Jupyter Notebook containing the end-to-end pipeline (Data Download $\rightarrow$ Extraction $\rightarrow$ Embedding $\rightarrow$ Clustering $\rightarrow$ Graph Construction $\rightarrow$ Retrieval).
 * `requirements.txt`: Python dependencies.
 * `outputs/`: Directory where serialized graph data (`memory_graph.graphml`), DataFrames, and embeddings are saved.
 * `visualization/`: Contains the generated PyVis interactive graph (`graph.html`).
